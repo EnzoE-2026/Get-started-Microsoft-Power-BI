@@ -5,9 +5,9 @@ Module 2 – Get started building with Power BI
 Microsoft Power BI is a complete reporting solution that offers data preparation, visualization, distribution and management through development tools, and an online platform. 
 
 ## Unit 2/6 – Use of PowerBI
-  •	Power BI Desktop for creating semantic models and reports with visualizations.
-  •	Power BI service for creating dashboards from published reports and distributing content with apps.
-  •	Power BI Mobile for on-the-go access to the Power BI service content, designed for mobile.
+  - Power BI Desktop for creating semantic models and reports with visualizations.
+  - Power BI service for creating dashboards from published reports and distributing content with apps.
+  - Power BI Mobile for on-the-go access to the Power BI service content, designed for mobile.
 
 The flow of Power BI is:
   1.	Connect data with Power BI Desktop.
