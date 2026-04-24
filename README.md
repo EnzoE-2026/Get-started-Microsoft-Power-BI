@@ -1,6 +1,7 @@
 # Get started Microsoft Power BI
-Module 2 – Get started building with Power BI
-https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
+[Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
+
+
 
 ## Unit 1/6 – Introduction
 Microsoft Power BI is a complete reporting solution that offers data preparation, visualization, distribution and management through development tools, and an online platform. 
