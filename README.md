@@ -18,8 +18,7 @@ The flow of Power BI is:
   6.	Distribute and manage reports in the Power BI service.
 
 ## Unit 3/6 – Building blocks of PowerBI
-The building blocks of Power BI are semantic models and visualizations
-A semantic model consists of all connected data, transformations, relationships, and calculations. Semantic models and Visualizations are the building blocks of PowerBI.
+The building blocks of Power BI are semantic models and visualizations. A semantic model consists of all connected data, transformations, relationships, and calculations. Semantic models and Visualizations are the building blocks of PowerBI.
 In the Power BI service, you can distribute content to your consumers and use reports to create dashboards.
 
 ## Unit 4/6 – Tour and use the PowerBI service 
