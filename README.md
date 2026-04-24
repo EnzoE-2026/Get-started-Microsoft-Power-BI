@@ -23,9 +23,9 @@ A semantic model consists of all connected data, transformations, relationships,
 In the Power BI service, you can distribute content to your consumers and use reports to create dashboards.
 
 ## Unit 4/6 – Tour and use the PowerBI service 
-  •	Workspaces are the foundation of the Power BI service
-  •	In a workspace, you can create an app, which provides consumers a simplified interface to access reports and dashboards
-  •	Template apps allow you to find an existing app that suits your needs and then you connect your data. These apps can be a great way to quickly share insights with minimal effort.
+  - Workspaces are the foundation of the Power BI service
+  - In a workspace, you can create an app, which provides consumers a simplified interface to access reports and dashboards
+  - Template apps allow you to find an existing app that suits your needs and then you connect your data. These apps can be a great way to quickly share insights with minimal effort.
 
 
 
