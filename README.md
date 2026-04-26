@@ -1,5 +1,6 @@
-# Get started Microsoft Power BI
-[Get started building with Power BI](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
+# Prepare data for analysis with Power BI
+[Prepare data for analysis with Power BI
+](https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/)
 
 
 
